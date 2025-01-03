@@ -1,4 +1,4 @@
-package govalidate
+package validator
 
 import (
 	"reflect"
